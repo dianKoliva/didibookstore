@@ -1,2 +1,3 @@
-# didibookstore
-It is an online book store where people can buy books
+# Didi Book Store
+This is a software where everyone can buy or book a book.
+
